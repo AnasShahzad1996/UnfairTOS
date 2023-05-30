@@ -1,1 +1,4 @@
 datasets/corpus_multiling
+baseline/model_trained
+baseline/model_trained_ent
+baseline/wandb
