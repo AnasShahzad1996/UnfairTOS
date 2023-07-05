@@ -1,4 +1,8 @@
-datasets/corpus_multiling
+datasets
 baseline/model_trained
 baseline/model_trained_ent
 baseline/wandb
+baseline/model_ent_2
+baseline/model_1_lab
+baseline/model_2_lab
+baseline/sector_dataset
